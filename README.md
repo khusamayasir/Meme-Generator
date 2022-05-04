@@ -1,4 +1,3 @@
 # Meme-Generator
 
-
-IN PROGRESS
+In Progress
