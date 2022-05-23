@@ -9,6 +9,6 @@
 <li>React</li>
 </ul>
 
-<h2>preview: </h2>
+<h2>Preview: </h2>
 
 ![preview](./preview/react-meme-generator.png)
